@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fhimama-virtual-tour-demo\u002Fstatic\u002F1623469586",layout:"default",error:a,serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002Fhimama-virtual-tour-demo\u002F",cdnURL:a}}}}(null,"\u002F"));
