@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"https:\u002F\u002Flmpablo.github.io\u002Fhimama-virtual-tour-demo\u002Fstatic\u002F1623512476",layout:"default",error:null,serverRendered:true,routePath:a,config:{_app:{basePath:"\u002Fhimama-virtual-tour-demo\u002F",assetsPath:a,cdnURL:"https:\u002F\u002Flmpablo.github.io\u002Fhimama-virtual-tour-demo\u002F"}}}}("\u002F"));
